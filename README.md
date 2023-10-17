@@ -6,10 +6,6 @@ The code requires some dependencies as specified in `requirements.txt`. Please f
 pip install -r requirements.txt
 ```
 We are using transformers version 4.33.1, make sure you install the same version as us!
-```
-cd transformers
-pip install -e .
-```
 
 ## 1. Data Construction
 ### Dataset
