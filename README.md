@@ -42,7 +42,7 @@ Intermediate Fine-tuning(INF)
 python train_gen.py
 python train_encoder.py
 ```
-## Rank Code Candidates
+## 3. Rank Code Candidates
 Finally, using RankEF to rank the code candidates
 ```
 python test_RankEF.py
